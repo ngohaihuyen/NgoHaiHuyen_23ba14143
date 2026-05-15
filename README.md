@@ -1,5 +1,5 @@
 USTH Image Processing 2026
 ===================================
 
-* Your name
-* Your student ID
+Ngô Hải Huyền
+23BA14143
